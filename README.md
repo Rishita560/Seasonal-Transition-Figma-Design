@@ -2,7 +2,7 @@
 
 ## View Interactive Prototype  
 [Click here to open the Figma Prototype]
-([https://www.figma.com/proto/your-prototype-link](https://www.figma.com/design/6IEpAHMrsZmc2sow8Y3lIV/Projects?node-id=0-1&t=VfCpn6huoILSHBT4-1))
+(https://www.figma.com/design/6IEpAHMrsZmc2sow8Y3lIV/Projects?node-id=0-1&t=VfCpn6huoILSHBT4-1)
 
 > *This prototype showcases a smooth transition between four seasons — Winter, Spring, Rainy, and Autumn — with themed visuals and descriptive texts. Click on each card to view the seasonal flow.*
 
